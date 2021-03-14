@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ChatRoomServer/src/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/ChatRoomServer/src/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/ChatRoomServer/src/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/ChatRoomServer/src/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
